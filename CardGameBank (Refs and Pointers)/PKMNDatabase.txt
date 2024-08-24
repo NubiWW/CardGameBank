@@ -1,0 +1,5 @@
+Cyndaquil, 50, FIRE, NULL, basic, the Fire Mouse Pokemon, 155
+Treecko, 40, GRASS, NULL, basic, the Wood Gecko Pokemon, 252
+Oshawott, 55, WATER, NULL, basic, the Sea Otter Pokemon, 501
+Ghastly, 25, GHOST, POISON, basic, the Gas Pokemon, 92
+Pikachu, 40, ELECTRIC, NULL, stage1, the Electric Mouse Pokemon, 25

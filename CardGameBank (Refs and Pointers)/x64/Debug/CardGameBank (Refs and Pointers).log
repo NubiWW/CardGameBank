@@ -1,0 +1,27 @@
+﻿  Card.cpp
+C:\Users\eastc\Documents\Nubi's Unreal Projects\CardGameBank (Refs and Pointers)\CardGameBank (Refs and Pointers)\Card.cpp(21,7): error C2511: 'Card::Card(std::string,int,std::string,std::string,std::string,std::string,int)': overloaded member function not found in 'Card'
+C:\Users\eastc\Documents\Nubi's Unreal Projects\CardGameBank (Refs and Pointers)\CardGameBank (Refs and Pointers)\Card.h(5,7): message : see declaration of 'Card'
+C:\Users\eastc\Documents\Nubi's Unreal Projects\CardGameBank (Refs and Pointers)\CardGameBank (Refs and Pointers)\Card.cpp(22,2): error C2671: 'Card::{ctor}': static member functions do not have 'this' pointers
+C:\Users\eastc\Documents\Nubi's Unreal Projects\CardGameBank (Refs and Pointers)\CardGameBank (Refs and Pointers)\Card.cpp(23,2): error C2671: 'Card::{ctor}': static member functions do not have 'this' pointers
+C:\Users\eastc\Documents\Nubi's Unreal Projects\CardGameBank (Refs and Pointers)\CardGameBank (Refs and Pointers)\Card.cpp(24,2): error C2671: 'Card::{ctor}': static member functions do not have 'this' pointers
+C:\Users\eastc\Documents\Nubi's Unreal Projects\CardGameBank (Refs and Pointers)\CardGameBank (Refs and Pointers)\Card.cpp(25,2): error C2671: 'Card::{ctor}': static member functions do not have 'this' pointers
+C:\Users\eastc\Documents\Nubi's Unreal Projects\CardGameBank (Refs and Pointers)\CardGameBank (Refs and Pointers)\Card.cpp(26,2): error C2671: 'Card::{ctor}': static member functions do not have 'this' pointers
+C:\Users\eastc\Documents\Nubi's Unreal Projects\CardGameBank (Refs and Pointers)\CardGameBank (Refs and Pointers)\Card.cpp(27,2): error C2671: 'Card::{ctor}': static member functions do not have 'this' pointers
+C:\Users\eastc\Documents\Nubi's Unreal Projects\CardGameBank (Refs and Pointers)\CardGameBank (Refs and Pointers)\Card.cpp(28,2): error C2671: 'Card::{ctor}': static member functions do not have 'this' pointers
+C:\Users\eastc\Documents\Nubi's Unreal Projects\CardGameBank (Refs and Pointers)\CardGameBank (Refs and Pointers)\Card.cpp(29,2): error C2671: 'Card::{ctor}': static member functions do not have 'this' pointers
+  CardGameBank (Refs and Pointers).cpp
+C:\Users\eastc\Documents\Nubi's Unreal Projects\CardGameBank (Refs and Pointers)\CardGameBank (Refs and Pointers)\CardGameBank (Refs and Pointers).cpp(33,39): warning C4267: 'initializing': conversion from 'size_t' to 'int', possible loss of data
+C:\Users\eastc\Documents\Nubi's Unreal Projects\CardGameBank (Refs and Pointers)\CardGameBank (Refs and Pointers)\CardGameBank (Refs and Pointers).cpp(40,41): warning C4267: '=': conversion from 'size_t' to 'int', possible loss of data
+C:\Users\eastc\Documents\Nubi's Unreal Projects\CardGameBank (Refs and Pointers)\CardGameBank (Refs and Pointers)\CardGameBank (Refs and Pointers).cpp(46,41): warning C4267: '=': conversion from 'size_t' to 'int', possible loss of data
+C:\Users\eastc\Documents\Nubi's Unreal Projects\CardGameBank (Refs and Pointers)\CardGameBank (Refs and Pointers)\CardGameBank (Refs and Pointers).cpp(52,41): warning C4267: '=': conversion from 'size_t' to 'int', possible loss of data
+C:\Users\eastc\Documents\Nubi's Unreal Projects\CardGameBank (Refs and Pointers)\CardGameBank (Refs and Pointers)\CardGameBank (Refs and Pointers).cpp(58,41): warning C4267: '=': conversion from 'size_t' to 'int', possible loss of data
+C:\Users\eastc\Documents\Nubi's Unreal Projects\CardGameBank (Refs and Pointers)\CardGameBank (Refs and Pointers)\CardGameBank (Refs and Pointers).cpp(64,41): warning C4267: '=': conversion from 'size_t' to 'int', possible loss of data
+C:\Users\eastc\Documents\Nubi's Unreal Projects\CardGameBank (Refs and Pointers)\CardGameBank (Refs and Pointers)\CardGameBank (Refs and Pointers).cpp(70,41): warning C4267: '=': conversion from 'size_t' to 'int', possible loss of data
+C:\Users\eastc\Documents\Nubi's Unreal Projects\CardGameBank (Refs and Pointers)\CardGameBank (Refs and Pointers)\CardGameBank (Refs and Pointers).cpp(79,45): warning C4267: 'initializing': conversion from 'size_t' to 'int', possible loss of data
+C:\Users\eastc\Documents\Nubi's Unreal Projects\CardGameBank (Refs and Pointers)\CardGameBank (Refs and Pointers)\CardGameBank (Refs and Pointers).cpp(86,47): warning C4267: '=': conversion from 'size_t' to 'int', possible loss of data
+C:\Users\eastc\Documents\Nubi's Unreal Projects\CardGameBank (Refs and Pointers)\CardGameBank (Refs and Pointers)\CardGameBank (Refs and Pointers).cpp(95,47): warning C4267: '=': conversion from 'size_t' to 'int', possible loss of data
+C:\Users\eastc\Documents\Nubi's Unreal Projects\CardGameBank (Refs and Pointers)\CardGameBank (Refs and Pointers)\CardGameBank (Refs and Pointers).cpp(102,47): warning C4267: '=': conversion from 'size_t' to 'int', possible loss of data
+  DynamicArray.cpp
+C:\Users\eastc\Documents\Nubi's Unreal Projects\CardGameBank (Refs and Pointers)\CardGameBank (Refs and Pointers)\DynamicArray.h(17,6): error C2086: 'int DynamicArray::size': redefinition
+C:\Users\eastc\Documents\Nubi's Unreal Projects\CardGameBank (Refs and Pointers)\CardGameBank (Refs and Pointers)\DynamicArray.h(18,6): error C2086: 'int DynamicArray::capacity': redefinition
+  Generating Code...

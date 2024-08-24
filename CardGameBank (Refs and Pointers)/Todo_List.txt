@@ -1,0 +1,45 @@
+TO-DO LIST
+
+-Turn card dex number into separate int  DONE
+
+-make setAttack function DONE
+
+-figure out how to get items frm text file into card constructor DONE
+
+-make dynamic arrays for putting cards in X
+	-array that grows when we try to make an insertion and there's not enough space
+
+	UPDATE: you used queue's instead disregard the above
+
+-not a task for later but in PKMNDatabase DONT LEAVE EMPTY LINES IT MESSES UP THE LOOP FOR PRINTING CARD INFORMATION DONE
+
+-Deck Making:
+	-Works by having the player input the dex number of the card they want until their deck is full (6)
+	-PKMN Database will need to be organized properly for this
+	-Obv need a "not found" output if inputting a dex number that doesn't exist
+
+-Create ATKDatabase (like PKMNDatabase _/)
+
+-Create "txt file to attack" converter (for attack txt file database/datashack, just like the ReadCardDB function) _/
+
+-add attack 2 back to card header
+
+-Battle System:
+	-Class for system and class for player(s)
+	-Type Interactions
+	-Turn Systems
+		-Coin Toss determines first turn
+		-Draw cards from deck (6)
+			-display one card at a time like "Card (1) of __", let player flip through hand 1 by 1
+		-pick card from hand--you can have 6 pkmn on the field but only 1 can attack each turn
+		-attacks end your turn, you can also choose to end your turn early after performing one of these actions:
+			*evolve mon (no limit aside from having met evo requirements for each one)
+			*bench a mon
+			*
+		-
+
+
+-Evolution, sometime, probably not soon
+	related: binary search refresher
+	store evolution dex number and seach for said number (switch card for dex num of next stage)
+
